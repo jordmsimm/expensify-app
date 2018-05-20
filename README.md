@@ -1,4 +1,4 @@
-## indecision-app
+## expensify-app
 Description
   This a boilerplate for react apps.
   
