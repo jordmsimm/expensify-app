@@ -1,6 +1,6 @@
 ## expensify-app
 Description
-  This a boilerplate for react apps.
+  This is a single page application that is used to track expenses. It is build using react + redux.
   
 Install packages:
 ```shell
